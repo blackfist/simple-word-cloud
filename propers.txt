@@ -1,0 +1,15 @@
+oracle,Oracle
+ddos,DDoS
+microsoft,Microsoft
+google,Google
+java,Java
+flash,Flash
+apple,Apple
+fbi,FBI
+adobe,Adobe
+china,China
+iran,Iran
+monday,Monday
+tuesday,Tuesday
+reader,Reader
+kaspersky,Kaspersky
