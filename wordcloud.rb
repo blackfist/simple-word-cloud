@@ -1,5 +1,5 @@
 require 'csv'
-common_words = File.open('common_words.txt','r').read.split("\n")
+common_words = File.open('common_words.txt','r').read.encode!('UTF-8','UTF-8', :invalid => :replace).split("\n")
 substitutions = {} 
 propers = {}
 CSV.foreach("substitutions.txt") do |line|

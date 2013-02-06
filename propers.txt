@@ -13,3 +13,4 @@ monday,Monday
 tuesday,Tuesday
 reader,Reader
 kaspersky,Kaspersky
+internet,Internet

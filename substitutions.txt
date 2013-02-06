@@ -44,3 +44,6 @@ collected,collect
 collection,collect
 china-based,china
 anonymous-affinity,anonymous
+attacks,attack
+breach,breached
+patched,patch
