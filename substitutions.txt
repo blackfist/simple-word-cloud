@@ -47,3 +47,7 @@ anonymous-affinity,anonymous
 attacks,attack
 breach,breached
 patched,patch
+agencies,agency
+duties,duty
+addresses,address
+priorities,priority
